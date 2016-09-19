@@ -1,0 +1,19 @@
+{
+  "name": "email-sms-application",
+  "version": "1.0.0",
+  "description": "This application is basically developed to send sms and emails to multiple accounts on a single click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1001322/Email_SMS-application.git"
+  },
+  "author": "Milind Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1001322/Email_SMS-application/issues"
+  },
+  "homepage": "https://github.com/1001322/Email_SMS-application#readme"
+}
